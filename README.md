@@ -8,8 +8,9 @@ to differentiate between scam and fraud narratives from Consumer Financial Prote
 and how narrative length and number of redactions effect performance. This resulted in the following paper that is under review: https://arxiv.org/abs/2412.08680.
 
 As a Breakthrough Tech Artificial Intelligence Fellow, I applied the knowledge from my coursework as a machine learning consultant for the Bowerly Residential Community (BRC). We 
-developed a [chatbot]([url](https://github.com/ichadalavada/BRC_Nightstaff_Chatbot)) that can aid overwhelmed night shift staffers easily access private corporate documents that outline procedures for emergency situations. As the BRC works to 
-support New York's homeless population with housing and employment opporunities, there are a lot of crucial, time-sensitive situations where support is required.  
+developed a chatbot that can aid overwhelmed night shift staffers easily access private corporate documents that outline procedures for emergency situations. As the BRC works to 
+support New York's homeless population with housing and employment opporunities, there are a lot of crucial, time-sensitive situations where support is required. The following link
+redirects to the open-sourced project: https://github.com/ichadalavada/BRC_Nightstaff_Chatbot.
 
 <!--
 **ichadalavada/ichadalavada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
